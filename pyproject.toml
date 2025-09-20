@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "discord-autoupdate"
+version = "0.1.0"
+authors = [
+    { name = "@readwithai", email = "talwrii@gmal.com" }
+]
+description = "Automatically update and run Discord on Debian-based systems."
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: POSIX :: Linux"
+]
+
+[project.scripts]
+discord-autoupdate = "discord_autoupdate.main:main"
