@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "discord-autoupdate"
-version = "1.1.0"
+version = "1.2.0"
 authors = [{ name = "@readwithai", email = "talwrii@gmal.com" }]
 description = "Automatically update and run Discord on Debian-based systems."
 readme = "README.md"

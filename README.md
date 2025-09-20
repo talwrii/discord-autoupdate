@@ -33,12 +33,7 @@ Type=Application
 Version=1.0
 ```
 
-## About me
-I am **@readwithai**. I create tools for reading, research and agency sometimes using the markdown editor [Obsidian](https://readwithai.substack.com/p/what-exactly-is-obsidian).
-
-I also create a [stream of tools](https://readwithai.substack.com/p/my-productivity-tools) that are related to carrying out my work.
-
-One of the topics I am interested in is the role of social media in forming poersonal
+You may wish to [add a desktop file](https://readwithai.substack.com/p/a-primer-on-linux-desktop-files) to run discord-autoupdate.
 
 ## About me
 I am **@readwithai**. I create tools for reading, research and agency sometimes using the markdown editor [Obsidian](https://readwithai.substack.com/p/what-exactly-is-obsidian).
