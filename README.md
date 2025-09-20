@@ -18,7 +18,20 @@ pipx install discord-autoupdate
 ## Usage
 If you run `discord-autoupdate` this will install a new version of discord if it exists and then run discords.
 
-There are some other options which you can see with `--help`
+There are some other options which you can see with `--help`.
+
+I use the following autostart script (in `~/.config/autostart`) to run `discord-autoupdate` on startup:
+
+```
+[Desktop Entry]
+Exec=/home/alex/.local/bin/discord-autoupdate
+Icon=Discord
+Name=Discord
+StartupNotify=true
+Terminal=false
+Type=Application
+Version=1.0
+```
 
 ## About me
 I am **@readwithai**. I create tools for reading, research and agency sometimes using the markdown editor [Obsidian](https://readwithai.substack.com/p/what-exactly-is-obsidian).
